@@ -21,7 +21,6 @@ module.exports = {
     "func-names": "error",
     "no-array-constructor": "error",
     "no-lonely-if": "error",
-    "sort-vars": "error",
     "wrap-iife": ["error", "inside"],
     "one-var": ["error", "always"],
     "semi": ["error", "always"],
